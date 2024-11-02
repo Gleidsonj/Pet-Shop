@@ -164,7 +164,12 @@ h3 {
 /* inicio CSS footer */
 .rodape {
     background-color:#3c184e;
-    padding: 10px;
+    padding: 20px;
     color: #fff;
     text-align: center;
+}
+
+.rodape span {
+    font-style: italic;
+    font-weight: 800;
 }
